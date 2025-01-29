@@ -3,6 +3,7 @@
 <h3 align="center">A passionate FullStack developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsingh48&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsingh48" /> </p>
 - 🔭 I’m currently working on [InspireGen](https://github.com/shivamsingh48/InspireGen)
 
 - 💬 Ask me about **Mern,Dsa**
